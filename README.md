@@ -26,7 +26,7 @@ basma kısmına ( hemen for döngüsünün altına ) aşağıdaki kodları ekliy
 ![](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
 > Hand Landmarks ( El İşaretleri )
 
-#### Font Belirledik
+#### Font Belirleyelim
 
     font = cv2.FONT_HERSHEY_PLAIN
 
