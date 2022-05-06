@@ -43,7 +43,7 @@ basma kısmına ( hemen for döngüsünün altına ) aşağıdaki kodları ekliy
 
 
 ![](resimler/acik_el.PNG)
->Açik El
+>Açık El
 
 ![](resimler/kapalı_el.PNG)
 
