@@ -1,4 +1,4 @@
-# PAYTHON İLE AÇIK - KAPALI EL TESPİTİ
+# PYTHON İLE AÇIK - KAPALI EL TESPİTİ
 
 ### Özellikler
 
